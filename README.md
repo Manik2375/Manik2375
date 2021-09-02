@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Manik2375/Manik2375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Manik Kappor, I am a frontend developer nowadays learning `Javascript` :D
+Hi! My name is Manik Kapoor, I am a frontend developer nowadays learning `Javascript` :D
+
+**I am bad in coding**
