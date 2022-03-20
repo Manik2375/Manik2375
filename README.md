@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Manik Kapoor, I am a frontend developer nowadays learning `Javascript` :D
+Hi! My name is Manik Kapoor, a simple programmer!
 
-**I am bad in coding**
+Frontend developer currently I guess 🙄
