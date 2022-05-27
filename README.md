@@ -1,20 +1,11 @@
 # Hi there 👋
 
-<!--
-**Manik2375/Manik2375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hi! My name is Manik Kapoor, a simple programmer!
 
 Frontend developer currently I guess 🙄
+
+![User count](https://komarev.com/ghpvc/?username=Manik2375)
+My page insights ig? 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/71554953/170715234-89586244-6464-4f9f-9361-6573d8afd51a.svg" width="600">
+</p>
