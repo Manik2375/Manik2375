@@ -10,7 +10,7 @@ About DSA, well I have mostly done that in *C*. (And btw, for some reason I like
 
 If you ever felt like chatting, DM me in the discord ^-^ (I hope you do! ;P)
 
-<img src="https://github.com/user-attachments/assets/ed27fda3-51e1-4f9b-a33a-7c89418749cf" alt="drawing" width="500"/>
+<img src="https://github.com/user-attachments/assets/ed27fda3-51e1-4f9b-a33a-7c89418749cf" alt="drawing" width="400"/>
 
 
 
